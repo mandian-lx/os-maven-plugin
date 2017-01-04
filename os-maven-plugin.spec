@@ -60,7 +60,6 @@ find -name plugin.xml -delete
 
 %files -f .mfiles
 %dir %{_javadir}/%{name}
-%dir %{_mavenpomdir}/%{name}
 %doc LICENSE.txt
 
 %files javadoc -f .mfiles-javadoc
