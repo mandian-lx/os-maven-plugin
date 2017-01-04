@@ -5,6 +5,7 @@ Version:        1.2.3
 Release:        1
 Summary:        Maven plugin for generating platform-dependent properties
 License:        ASL 2.0
+Group:          Development/Java
 URL:            https://github.com/trustin/os-maven-plugin/
 BuildArch:      noarch
 
