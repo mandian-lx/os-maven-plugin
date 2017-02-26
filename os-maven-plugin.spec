@@ -1,3 +1,5 @@
+%{?_javapackages_macros:%_javapackages_macros}
+
 %global vertag Final
 
 Name:           os-maven-plugin
